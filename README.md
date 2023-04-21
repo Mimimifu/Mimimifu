@@ -10,8 +10,5 @@ Mimimifu/Mimimifu is a ✨ special ✨ repository because its `README.md` (this 
 Graduated from the college of life, learning from my mistakes more especially yours, so make a lot of mistakes so I don't do the same shit as you!
 Mine are going to be epic!
 
-
-
-
 You can click the Preview link to take a look at your changes.
 --->
